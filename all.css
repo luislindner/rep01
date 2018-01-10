@@ -19331,7 +19331,7 @@ blockquote {
 		color: #999
 	 }
 
-		blockquote small:before {content: '2014  0A0'}
+		blockquote small:before {content: '2014 0A0'}
 
 	blockquote.pull-right {
 		float: right;
@@ -19345,7 +19345,7 @@ blockquote {
 
 		blockquote.pull-right small:before {content: ''}
 
-		blockquote.pull-right small:after {content: ' 0A0 2014'}
+		blockquote.pull-right small:after {content: '0A0 2014'}
 
 q:before,q:after,blockquote:before,blockquote:after {content: ""}
 
